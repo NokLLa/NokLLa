@@ -1,4 +1,6 @@
-![](https://github.com/NokLLa/NokLLa/blob/main/jesse.gif)
+<div id="header" align="center">
+  <img src="https://tenor.com/view/jesse-gif-26543656" width="100"/>
+</div>
 <!--
 **NokLLa/NokLLa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
