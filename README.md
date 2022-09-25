@@ -1,4 +1,4 @@
- <img align="right" alt="Coding" width="400" src="[add your link here](https://tenor.com/view/jesse-gif-26543656)">
+ <img align="right" alt="Coding" width="400" src="https://tenor.com/view/jesse-gif-26543656">
 <!--
 **NokLLa/NokLLa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
