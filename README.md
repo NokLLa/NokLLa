@@ -1,6 +1,5 @@
-<div id="header" align="center">
-  <img src="https://raw.githubusercontent.com/NokLLa/NokLLa/main/jesse.gif" width="100"/>
-</div>
+![cat-cat-dance](https://user-images.githubusercontent.com/90043925/192133650-581f7e7e-eb7b-4ae1-92d4-1d5b5267899b.gif)
+
 <!--
 **NokLLa/NokLLa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
